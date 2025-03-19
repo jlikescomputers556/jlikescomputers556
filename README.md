@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jlikescomputers556
 - 👀 I’m interested in all things computers, although i enjoy hardware projects over software. Don't get me wrong software is still great :)
 - 🌱 I’m currently learning network science by building an apache raspberry pi home server. 
-- 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Snow skiing and mountain biking are among my other hobbies.
 
