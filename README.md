@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacks-lab
-- 👀 I’m interested in all things computers, although i enjoy hardware projects over software. Don't get me wrong software is still great :)
-- 🌱 I’m currently learning network science by building an apache raspberry pi home server. 
-- ⚡ Fun fact: Snow skiing and mountain biking are among my other hobbies.
+- 👀 I’m interested in all things computers, especially web development, cybersecurity and hacking, networking, and fooling around with raspberry pis.
+- 🌱 I’m currently learning all things networking. 
+- ⚡ Fun fact: I also enjoy 3d printing Check me out at <a href="https://www.printables.com/@customCraft3D">Printables.com</a>.
 
 <!---
 jlikescomputers556/jlikescomputers556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
